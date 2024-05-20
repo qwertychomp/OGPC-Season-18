@@ -1,0 +1,31 @@
+{
+	"comment": "Keybinds are in an array of keys-action name format",
+	"comment2": "The defaults are just some random things I set, feel free to change them",
+	"comment3": "if godot thinks your json isnt written correctly, just use https://codebeautify.org/json-fixer to fix it",
+	"keybinds": [
+		{
+			"actionName": "move_forward",
+			"key": [
+				"W",
+			]
+		},
+		{
+			"actionName": "move_right",
+			"key": [
+				"D",
+			]
+		},
+		{
+			"actionName": "move_left",
+			"key": [
+				"A",
+			]
+		},
+		{
+			"actionName": "pause",
+			"key": [
+				"Escape"
+			]
+		}
+		]
+}
