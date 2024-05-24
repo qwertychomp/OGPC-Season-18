@@ -1,2 +1,3 @@
-# OGPC-Season-18
-Season 18 entry from flying goose games
+# Epimetheus Games OGPC Season 18
+
+### Our entry for Season 18 of Oregon Game Project Challenge.
